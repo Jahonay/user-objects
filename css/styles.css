@@ -44,6 +44,7 @@ h1{
     margin:auto auto 0 auto;
     line-height:1;
     color:#8b45fc;
+    text-align:center;
 }
 p{
     margin:0 auto 0 auto;
@@ -78,6 +79,23 @@ button{
     height:fit-content;
     width:fit-content;
     padding:6px 12px 6px 12px;
-    margin:10px auto auto auto;
+    margin:10px auto 10px auto;
     cursor:pointer;
+}
+
+a{
+    margin:0 auto auto auto;
+    width:fit-content;
+    text-decoration: none;
+    color:#8b45fc;
+    cursor:pointer;
+}
+
+a:hover{
+    color:#bb92fd
+
+}
+
+#create  #button{
+    margin: 10px auto auto auto;
 }
